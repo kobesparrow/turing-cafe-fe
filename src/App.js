@@ -30,8 +30,7 @@ class App extends Component {
         'Content-type': 'application/json'
       }
     })
-      .catch(error => console.log(error.message))
-    this.handleUpdate() 
+      .catch(error => console.log(error.message)) 
   }
 
   fetchUpdatedReservations = () => {

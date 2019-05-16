@@ -1,0 +1,8 @@
+.reservation-card {
+  border: 3px solid #018080;
+  border-radius: 15px;
+  color: #018080;
+  background-color: #FFFFFF;
+  width: 250px;
+  margin: 10px;
+}
